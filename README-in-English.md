@@ -18,10 +18,10 @@ improve the efficiency of adding subtitle to video
 	* Display audio waveform
 
 ## Why?
-The current software for making subtitle it not every good.  
+The current software for making subtitle is not good.  
 
 
-## Design: Behind the scene
+## Behind the scene: Design 
 
 ### I made multiple version
 ![](./img/1.jpg)
