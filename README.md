@@ -1,4 +1,5 @@
 ## 产品名：时间轴小助手
+[README in English](./README-in-English.md)
 
 ## 设计图 
 ![](./img/design.jpg)  
