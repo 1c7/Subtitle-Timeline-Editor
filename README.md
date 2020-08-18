@@ -52,6 +52,15 @@
 
 编程语言：根据开源代码，看起来是用 C/C++ 写的
 
+## 感谢评论区内 [BingLingGroup](https://github.com/BingLingGroup) 在2020年8月18号对 Aegisub 的补充说明，内容如下，粘贴过来方便其他人学习 Aegisub：
+1. aegisub仍有人维护 https://github.com/wangqr/Aegisub ，关于字幕渲染的插件VSFilter仍然有人在更新 https://github.com/qwe7989199/aegisub_scripts/releases/tag/v1.3 ，开源压制界的软件Avisynth和Vapoursynth用的人还有很多
+2. 界面可以改颜色 `偏好设置-界面-颜色` 或 `偏好设置-自动保存` 中的上级目录的 `config.json` 文件中修改
+3. `偏好设置-热键`
+5. Arctime的优点竟然是波形图？你知不知道Aegisub也有波形图？音频区从右到左第三个按键是什么？另外频谱图比波形图好用是公认的吧，你觉得频谱图不好看，可以去 `偏好设置-高级-音频-频谱模式-质量-极高质量` 调整即可
+6. Aegisub有视频区域脱离，`菜单栏-视频-拆分视频`
+7. Aegisub已经有视频压制插件 https://github.com/qwe7989199/aegisub_scripts
+8. 机翻可以考虑subtitleedit，当然谷歌翻译质量不是很好。deepl目前还没有免费的api可以白嫖，我的方案是把英文字幕抽取出来手动复制到网页端deepl进行翻译，再复制回去
+
 ## Arctime Pro 的缺点
 ![](./img/arctime.jpg)
 
