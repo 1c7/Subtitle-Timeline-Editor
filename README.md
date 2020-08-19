@@ -145,6 +145,9 @@
 * [Nosub](https://github.com/patui/Nosub): Nosub Subtitle Editor，支持 Windows, 暂不支持 macOS  
 [软件截图，视频演示，以及相关讨论看这条 Github issue](https://github.com/1c7/Subtitle-Timeline-Editor/issues/4)
 
+## 讨论: 可加 QQ 群 624054542 (Q 群名: 时间轴小助手-软件)
+如果希望快速的讨论可以加 Q 群和作者聊。   
+如果希望公开的讨论可以直接开 Github issue。
 
 ## 关于 "macOS 独占, 不支持 Windows" 的说明
 [请参照这篇说明](https://github.com/1c7/Subtitle-Timeline-Editor/issues/2#issuecomment-663108677)
