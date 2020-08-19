@@ -141,7 +141,7 @@
 视频可以在另一个屏幕全屏
 
 
-# 近期(2019年之后)出现的字幕编辑软件
+## 近期(2019年之后)出现的字幕编辑软件
 * [Nosub](https://github.com/patui/Nosub): Nosub Subtitle Editor，支持 Windows, 暂不支持 macOS  
 [软件截图，视频演示，以及相关讨论看这条 Github issue](https://github.com/1c7/Subtitle-Timeline-Editor/issues/4)
 
