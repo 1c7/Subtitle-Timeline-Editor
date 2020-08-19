@@ -1,4 +1,4 @@
-## 产品名：时间轴小助手
+## 产品名：时间轴小助手 （macOS 独占, 不支持 Windows)
 [README in English](./README-in-English.md)
 
 ## 设计图 
@@ -142,3 +142,7 @@
 # 近期(2019年之后)出现的字幕编辑软件
 * [Nosub](https://github.com/patui/Nosub): Nosub Subtitle Editor，支持 Windows, 暂不支持 macOS  
 [软件截图，视频演示，以及相关讨论看这条 Github issue](https://github.com/1c7/Subtitle-Timeline-Editor/issues/4)
+
+
+## 关于 "macOS 独占, 不支持 Windows" 的说明
+[请参照这篇说明](https://github.com/1c7/Subtitle-Timeline-Editor/issues/2#issuecomment-663108677)
