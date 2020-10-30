@@ -207,3 +207,9 @@
   * 下方时间轴只能显示一小段，比如10秒到30秒左右，不允许滚动，这个还是挺不爽的（就是 Web 平台本身的性能问题）     
 
   优点蛮多的，这里就不列了，用起来还是很舒服的，整体的操作逻辑可以学习   
+  
+  
+  ## 发现的新软件 Subtitle Composer （仅支持 windows 和 linux)
+  https://invent.kde.org/multimedia/subtitlecomposer
+  
+  
