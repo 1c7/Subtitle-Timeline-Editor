@@ -209,7 +209,18 @@
   优点蛮多的，这里就不列了，用起来还是很舒服的，整体的操作逻辑可以学习   
   
   
-  ## 发现的新软件 Subtitle Composer （仅支持 windows 和 linux)
+## 发现的新软件 Subtitle Composer （仅支持 windows 和 linux)
   https://invent.kde.org/multimedia/subtitlecomposer
   
+## 爱幕 - 在线字幕编辑器
+  https://online.aimu-app.com
+  优点：
+  * 适合编辑+压制全流程搞定
+  
+  缺点：
+  * 视频(mp4)需要完整的上传才能做语音识别，如果文件很大(1G以上),或者网速不好，就很慢。
+  改进方法：在客户端用  webassembly 的 FFmpeg 把 mp4 转换成 wav/mp3/flac/acc 等音频格式，大大缩减需要上传的文件大小
+
+中立：
+* 字幕的样式可以调整，颜色，大小，底部距离，但是没有 ass 格式那么自由（这个后续改进就行了）
   
