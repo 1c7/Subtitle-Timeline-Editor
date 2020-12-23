@@ -237,3 +237,8 @@
 
 结论：如果我把 macOS 端的软件做出来，能够打出成本优势。
 
+## 同类产品：场辞
+https://trans.xinpianchang.com/
+
+
+
