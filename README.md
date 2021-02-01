@@ -240,5 +240,6 @@
 ## 同类产品：场辞
 https://trans.xinpianchang.com/
 
-
+## 类似产品：绘影字幕
+https://huiyingzimu.com/
 
